@@ -15,7 +15,7 @@ exports[`Test case for App.js renders App 1`] = `
       <h1
         className="sc-AxmLO cAKCgh"
       >
-        Progress Bars Demo
+        Progress Bars
       </h1>
       <div
         className="sc-AxhUy gScyUb"
