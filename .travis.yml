@@ -11,10 +11,9 @@ script:
   - npm run build
 
 deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  local_dir: build
-  keep_history: true
+  provider: surge
+  skip_cleanup: true
+  domain: zealous-board.surge.sh
+  project: ./build/
   on:
     branch: master
