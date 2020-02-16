@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test case for App.js renders App 1`] = `
+<div>
+  <div
+    className="sc-AxhUy kcStfL"
+    style={
+      Object {
+        "height": "100vh",
+      }
+    }
+  >
+    <div>
+      <h1
+        className="sc-AxmLO cAKCgh"
+      >
+        Progress Bars Demo
+      </h1>
+      <div
+        className="sc-AxhUy gScyUb"
+      />
+      <div
+        className="sc-AxhUy ivmIcr"
+      />
+      <div
+        style={
+          Object {
+            "margin": "10px",
+          }
+        }
+      />
+      <select
+        onChange={[Function]}
+        value={0}
+      />
+    </div>
+  </div>
+</div>
+`;

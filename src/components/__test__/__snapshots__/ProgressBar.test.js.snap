@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Button 1`] = `
+<div
+  className="sc-AxjAm sc-AxhCb eYwGMp"
+>
+  <div
+    className="sc-AxjAm sc-AxirZ jUIkFz"
+  />
+  <div
+    className="sc-AxjAm sc-AxiKw dkUgxe"
+  >
+    %
+  </div>
+</div>
+`;
