@@ -10,6 +10,7 @@ exports[`Test case for App.js renders App 1`] = `
       }
     }
   >
+     
     <div>
       <h1
         className="sc-AxmLO cAKCgh"
@@ -18,10 +19,14 @@ exports[`Test case for App.js renders App 1`] = `
       </h1>
       <div
         className="sc-AxhUy gScyUb"
-      />
+      >
+         
+      </div>
       <div
         className="sc-AxhUy ivmIcr"
-      />
+      >
+         
+      </div>
       <div
         style={
           Object {
