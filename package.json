@@ -68,6 +68,8 @@
     "*.{js,jsx,ts,tsx,md,html}": [
       "npx prettier --write",
       "eslint src/*.js --fix-dry-run"
-    ]
+    ],
+    "*.js": "eslint --cache --fix",
+    "*.{js,css,md}": "prettier --write"
   }
 }
