@@ -13,6 +13,6 @@ const Wrap = styled.div(
   alignItems,
 );
 
-const Flex = ({children, ...props}) => <Wrap {...props}>                                     {children}</Wrap>;
+const Flex = ({children, ...props}) => <Wrap {...props}> {children}</Wrap>;
 
 export default Flex;
