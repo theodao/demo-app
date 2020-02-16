@@ -54,7 +54,7 @@ function App() {
     <Container loading={loading}>
       <Flex justifyContent="center" alignItems="center" style={{height: "100vh"}}>
         <div>
-          <Headline>Progress Bars Demo</Headline>
+          <Headline>Progress Bars</Headline>
           {/* Should not set key as index here */}
           <Flex>
             {barValues.map((barValue, index) => {
